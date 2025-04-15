@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\robyn\\Documents\\Plugin en .sln\\Public\\HueTig98\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4432C78B-3AE4-45DF-A24F-2AAB8B49E6A5}|HueTig98\\S.I - TIG.csproj|c:\\users\\robyn\\documents\\plugin en .sln\\public\\huetig98\\huetig98\\main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4432C78B-3AE4-45DF-A24F-2AAB8B49E6A5}|HueTig98\\S.I - TIG.csproj|solutionrelative:huetig98\\main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4432C78B-3AE4-45DF-A24F-2AAB8B49E6A5}|HueTig98\\S.I - TIG.csproj|C:\\Users\\robyn\\Documents\\Plugin en .sln\\Public\\HueTig98\\huetig98\\db\\pointpatern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4432C78B-3AE4-45DF-A24F-2AAB8B49E6A5}|HueTig98\\S.I - TIG.csproj|solutionrelative:huetig98\\db\\pointpatern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4432C78B-3AE4-45DF-A24F-2AAB8B49E6A5}|HueTig98\\S.I - TIG.csproj|C:\\Users\\robyn\\Documents\\Plugin en .sln\\Public\\HueTig98\\huetig98\\db\\playerintig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4432C78B-3AE4-45DF-A24F-2AAB8B49E6A5}|HueTig98\\S.I - TIG.csproj|solutionrelative:huetig98\\db\\playerintig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4432C78B-3AE4-45DF-A24F-2AAB8B49E6A5}|HueTig98\\S.I - TIG.csproj|C:\\Users\\robyn\\Documents\\Plugin en .sln\\Public\\HueTig98\\huetig98\\main\\onplayerspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4432C78B-3AE4-45DF-A24F-2AAB8B49E6A5}|HueTig98\\S.I - TIG.csproj|solutionrelative:huetig98\\main\\onplayerspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4432C78B-3AE4-45DF-A24F-2AAB8B49E6A5}|HueTig98\\S.I - TIG.csproj|C:\\Users\\robyn\\Documents\\Plugin en .sln\\Public\\HueTig98\\huetig98\\main\\pointcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4432C78B-3AE4-45DF-A24F-2AAB8B49E6A5}|HueTig98\\S.I - TIG.csproj|solutionrelative:huetig98\\main\\pointcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4432C78B-3AE4-45DF-A24F-2AAB8B49E6A5}|HueTig98\\S.I - TIG.csproj|C:\\Users\\robyn\\Documents\\Plugin en .sln\\Public\\HueTig98\\huetig98\\config\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4432C78B-3AE4-45DF-A24F-2AAB8B49E6A5}|HueTig98\\S.I - TIG.csproj|solutionrelative:huetig98\\config\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PointPatern.cs",
+              "DocumentMoniker": "C:\\Users\\robyn\\Documents\\Plugin en .sln\\Public\\HueTig98\\HueTig98\\DB\\PointPatern.cs",
+              "RelativeDocumentMoniker": "HueTig98\\DB\\PointPatern.cs",
+              "ToolTip": "C:\\Users\\robyn\\Documents\\Plugin en .sln\\Public\\HueTig98\\HueTig98\\DB\\PointPatern.cs",
+              "RelativeToolTip": "HueTig98\\DB\\PointPatern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:14:46.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerInTig.cs",
+              "DocumentMoniker": "C:\\Users\\robyn\\Documents\\Plugin en .sln\\Public\\HueTig98\\HueTig98\\DB\\PlayerInTig.cs",
+              "RelativeDocumentMoniker": "HueTig98\\DB\\PlayerInTig.cs",
+              "ToolTip": "C:\\Users\\robyn\\Documents\\Plugin en .sln\\Public\\HueTig98\\HueTig98\\DB\\PlayerInTig.cs",
+              "RelativeToolTip": "HueTig98\\DB\\PlayerInTig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:27:50.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PointCreator.cs",
+              "DocumentMoniker": "C:\\Users\\robyn\\Documents\\Plugin en .sln\\Public\\HueTig98\\HueTig98\\Main\\PointCreator.cs",
+              "RelativeDocumentMoniker": "HueTig98\\Main\\PointCreator.cs",
+              "ToolTip": "C:\\Users\\robyn\\Documents\\Plugin en .sln\\Public\\HueTig98\\HueTig98\\Main\\PointCreator.cs",
+              "RelativeToolTip": "HueTig98\\Main\\PointCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:27:12.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OnPlayerSpawn.cs",
+              "DocumentMoniker": "C:\\Users\\robyn\\Documents\\Plugin en .sln\\Public\\HueTig98\\HueTig98\\Main\\OnPlayerSpawn.cs",
+              "RelativeDocumentMoniker": "HueTig98\\Main\\OnPlayerSpawn.cs",
+              "ToolTip": "C:\\Users\\robyn\\Documents\\Plugin en .sln\\Public\\HueTig98\\HueTig98\\Main\\OnPlayerSpawn.cs",
+              "RelativeToolTip": "HueTig98\\Main\\OnPlayerSpawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:27:09.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\robyn\\Documents\\Plugin en .sln\\Public\\HueTig98\\HueTig98\\Main\\Main.cs",
+              "RelativeDocumentMoniker": "HueTig98\\Main\\Main.cs",
+              "ToolTip": "C:\\Users\\robyn\\Documents\\Plugin en .sln\\Public\\HueTig98\\HueTig98\\Main\\Main.cs*",
+              "RelativeToolTip": "HueTig98\\Main\\Main.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:02:22.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\robyn\\Documents\\Plugin en .sln\\Public\\HueTig98\\HueTig98\\Config\\Config.cs",
+              "RelativeDocumentMoniker": "HueTig98\\Config\\Config.cs",
+              "ToolTip": "C:\\Users\\robyn\\Documents\\Plugin en .sln\\Public\\HueTig98\\HueTig98\\Config\\Config.cs",
+              "RelativeToolTip": "HueTig98\\Config\\Config.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:02:16.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
