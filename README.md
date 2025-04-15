@@ -19,3 +19,7 @@
 # Plus
 
 **- Il faut que vous faites au moins 2 point de Tig vous même pour que le Tig se déroule aux mieux.**
+
+# Dépendances
+
+**- Il est nécessaires d'avoir Modkit sur votre serveur ! : https://github.com/Aarnow/NovaLife_ModKit-Releases/releases/latest**
